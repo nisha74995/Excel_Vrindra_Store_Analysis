@@ -60,8 +60,7 @@ All insights are consolidated into a dynamic Excel dashboard with slicers (Month
 
 
 **📈 Dashboard Preview**
-
-
+<img width="1591" height="666" alt="image" src="https://github.com/user-attachments/assets/c8ea9307-8f4a-47b5-b4e4-51f56dde1f85" />
 
 **🧠 Key Insights (Summary)**
 
@@ -101,4 +100,4 @@ Inspired by YouTube tutorials for Excel dashboard building.
 
 
 
-Just tell me!
+
