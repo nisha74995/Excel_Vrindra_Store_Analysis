@@ -1,4 +1,4 @@
-# Excel_Vrindra_Store_Analysis...
+# Excel_Vrindra_Store_Analysis
 
 **📊 Vrinda Store Annual Sales Report 2022**
 
